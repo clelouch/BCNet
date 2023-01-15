@@ -15,6 +15,19 @@ Training and testing datasets are available at
 
 ([Google](https://drive.google.com/file/d/1VS8qVUjC__4BZhB-13S3wHDWAs_-YFDI/view?usp=sharing))
 
+## Training
+```
+python train.py
+```
+
+## Test
+```
+ python test.py
+```
+We provide the trained model file 
+([Res2Net](https://pan.baidu.com/s/1RNbbfpmQRnXhDe1b4Aeszg)) [code:c2jd]
+([ResNet](https://pan.baidu.com/s/1RmbEKyWBU-XoKYuWhQWhXQ)) [code:9fs7]
+
 ## Results
 
 The prediction maps are also available
